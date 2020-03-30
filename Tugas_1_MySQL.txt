@@ -1,0 +1,30 @@
+Tugas 1 MySQL
+
+1. Apa yang dimaksud dengan database?
+Dikutip dari wikipedia: “A database is an organized collection of data”. Sebuah database adalah kumpulan data yang terorganisasi. Dalam bahasa Indonesia, database ini dikenal juga dengan sebutan Basis Data.  
+
+2.Apa singkatan dan pengertian dari RDBMS?
+RDBMS, singkatan dari Relational Database Management System. Pengertian sederhana dari RDBMS adalah: aplikasi database yang menggunakan prinsip relasional. Relational Database adalah suatu jenis database model.
+
+3.Sebutkan 5 cara apa saja yang dipakai dalam penyimpanan data pada database model!
+Dalam teori database, banyak cara yang dikembangkan untuk menyimpan data di komputer, mulai dari :
+ a. Flat Model : Menyimpan data tanpa aturan dan cara penulisan tertentu.  
+ b. Hierarchical Model : Data terorganisasi dari atas ke bawah.  
+ c. Network Model : Pengembangan dari hierarchical model.  
+ d. Relational Model  : Menyusun data ke dalam bentuk tabel yang saling terhubung.
+ e. Object Oriented Model : Menggunakan pendekatan object dalam menyimpan data.  
+
+4. Sebutkan 6 aplikasi RDBMS selain MySQL!
+MySQL merupakan RDBMS yang gratis dan mudah digunakan (user friendly). MySQL juga bukan satu-satunya RDBMS, diantaranya ada: Oracle, Sybase, Microsoft Access, Microsoft SQL Server, PostgreSQL dan juga MariaDB.
+
+5. Sebutkan 5 keunggulan MySQL sebagai RDBMS!
+Berikut beberapa keunggulan MySQL dibandingkan dengan RDBMS lain:  
+ a. Speed
+ b. Reliability
+ c. Scalability
+ d. User Friendly
+ e. Portability and Standard Compliance  
+ f. Multiuser Support  
+ g. Internationalization  
+ h. Wide Application Support  
+ i. Open Source Code  
